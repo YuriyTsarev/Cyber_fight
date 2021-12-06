@@ -58,3 +58,5 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+main_fight_scene/Library/
+main_fight_scene/Logs/
