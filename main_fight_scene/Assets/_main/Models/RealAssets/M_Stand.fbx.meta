@@ -3,7 +3,17 @@ guid: a4a7801ffc3532a45ae24dbcdc4b71c1
 ModelImporter:
   serializedVersion: 21100
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Realistic_Glass_01
+    second: {fileID: 2100000, guid: b2500b626d79ad74a86a0311a684b38b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u043C\u0435\u0442\u0430\u043B\u043B"
+    second: {fileID: 2100000, guid: 420f15080b9db804e8b7d2b91104e521, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
